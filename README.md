@@ -46,7 +46,8 @@ results = retrofit.get_image_data("path/to/image.jpg", save=True)
 - **font_size**: Size of the font for labels (default: 7).
 - **font_thickness**: Thickness of the font for labels (default: 3).
 - **line_space**: Space between lines of labels (default: 10).
-- **mode**: Mode of operation (all, defect, rating).
+- **detect_mode**: Detect Mode of operation (all, defect, rating).
+- **label_mode**: Label Mode of operation (all, defect, rating).
 
 ## Example
 
