@@ -1,6 +1,10 @@
-# SMRetrofit
+# smretrofit
 
 SMRetrofit is a Python library designed to process video and image data using machine learning models hosted on the Somikoron API. This library provides functionalities to analyze videos and images, detecting defects and generating ratings based on various criteria.
+
+You can find the source code and documentation for smretrofit on [GitHub](https://github.com/somikoronAI-Source/smretrofit.git).
+
+For reporting issues or feature requests, please visit the [issues page](https://github.com/somikoronAI-Source/smretrofit/issues/1).
 
 ## Features
 
@@ -46,7 +50,8 @@ results = retrofit.get_image_data("path/to/image.jpg", save=True)
 - **font_size**: Size of the font for labels (default: 7).
 - **font_thickness**: Thickness of the font for labels (default: 3).
 - **line_space**: Space between lines of labels (default: 10).
-- **mode**: Mode of operation (all, defect, rating).
+- **detect_mode**: Detect Mode of operation (all, defect, rating).
+- **label_mode**: Label Mode of operation (all, defect, rating).
 
 ## Example
 
