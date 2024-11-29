@@ -2,8 +2,6 @@
 
 SMRetrofit is a Python library designed to process video and image data using advanced convolutional neural networks (CNNs) implemented in the PyTorch framework, hosted on the Somikoron API. This library provides functionalities to analyze videos and images, detecting defects and generating ratings based on various criteria. The advanced CNN models offer enhanced accuracy and performance in defect detection, making SMRetrofit suitable for high-quality analysis tasks.
 
-You can find the source code and documentation for smretrofit on [GitHub](https://github.com/somikoronAI-Source/smretrofit.git).
-
 For reporting issues or feature requests, please visit the [issues page](https://github.com/somikoronAI-Source/smretrofit/issues/1).
 
 ## Features
