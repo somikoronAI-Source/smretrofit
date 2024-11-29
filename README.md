@@ -12,6 +12,7 @@ For reporting issues or feature requests, please visit the [issues page](https:/
 - **Customizable Parameters**: Adjust font size, thickness, and line spacing for visual annotations.
 
 ## Installation
+pip install smretrofit requires Python 3.7 or higher and includes all necessary dependencies.
 
 You can install the required packages using pip:
 ```bash
